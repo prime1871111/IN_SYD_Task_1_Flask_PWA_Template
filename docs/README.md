@@ -42,7 +42,7 @@ Install the following software. Use default install options, with one exception.
 3. [GIT 2.x.x +](https://git-scm.com/downloads)     (blocked on school network.
    For windows use the install file on teams: https://schoolsnsw.sharepoint.com/:u:/r/sites/11SoftwareEngineering-2024-Common/Class%20Materials/HSC%20Task%201/Task%201%20-%20Software%20Install%20Files/Git-2.47.0.2-64-bit.exe?csf=1&web=1&e=GJGxZv)
    For mac install via homebrew (install homebrew here https://brew.sh/); then via homebrew:
-   
+   ![GIT install on mac via homebrew](/docs/README_resources/gitInstallViaHomebrew.PNG "GIT install on mac via homebrew")
 
 > [!Important]
 > MacOS and Linux users may have a `pip3` soft link instead of `pip`, run the below commands to see what path your system is configured with and use that command through the project. If neither command returns a version, then likely [Python 3.x](https://www.python.org/downloads/) needs to be installed.
